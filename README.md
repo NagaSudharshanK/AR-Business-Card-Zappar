@@ -1,0 +1,2 @@
+# AR-Business-Card-Zappar
+ This is a marker based AR Business Card developed using Unity. This is a web application which is developed using the  Zappar package. The application tracks a marker and augments the card over it. Additionally it has other functionalities of directing to some URLs (for say social media handles, web sites, locations, etc.,). I have also added some small animations when the marker gets tracked.
